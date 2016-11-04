@@ -1,0 +1,33 @@
+..
+Time Elapsed: 0:00:15.936000
+
+D:\MyWorkpace\tuyoumi\src>exit
+...ok
+ok
+ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+OK
+
+D:\MyWorkpace\tuyoumi\src>..
+----------------------------------------------------------------------
+Ran 2 tests in 16.452s
+
+OK
+
+D:\MyWorkpace\tuyoumi\src>最新测试生成的报告：2016-06-15-17_27_51result.html
+D:\MyWorkpace\tuyoumi\src\result\2016-06-15-17_27_51result.html
+email has send out!
+..E....
+Time Elapsed: 0:02:17.024000
+
+D:\MyWorkpace\tuyoumi\src>执行浏览器退出
+最新测试生成的报告：2016-06-15-17_34_12result.html
+D:\MyWorkpace\tuyoumi\src\result\2016-06-15-17_34_12result.html
+email has send out!
+..E...E
+Time Elapsed: 0:01:47.862000
+
+D:\MyWorkpace\tuyoumi\src>
